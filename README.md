@@ -20,14 +20,14 @@
 
  _how to run the application locally in your computer_
     
-  1. Go to GitHub repository (link: https://github.com/domooh9/weatherApp)
+  1. Go to GitHub repository link: https://github.com/domooh9/weatherApp
   2. Clone the repo {git clone git@github.com:domooh9/weatherApp.git}
   3. Navigate to index.html and open it in your browser
   4. Internet connection is needed to run index.html succesfully
 
  _how to run the application web link_
 
-  1. open the link {https://domooh9.github.io/weatherApp} in your browser
+  1. open the link https://domooh9.github.io/weatherApp/ in your browser
   2. The application is a web based application.
   3. It requires user to have an internet connection 
   4. Any internet browsercan run the application
