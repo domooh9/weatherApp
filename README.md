@@ -1,5 +1,7 @@
 **PROGRAME NAME**: WeatherApp
+
 **AUTHOR NAME**: DOMNIC OMONDI
+
 **VERSION DATE**: 24-06-2022
 
 **_description of the project_**
