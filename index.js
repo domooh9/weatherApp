@@ -16,3 +16,12 @@ const { name } = data;
 const { icon, description } = data.weather[0];
 const { temp, humidity } = data.main;
 const { speed } = data.wind;
+//using data from the API to manipulate the innerText of HTML
+document.querySelector(".city").innerText = "Weather of " + name;
+document.querySelector(".icon").src = "https://openweathermap.org/img/wn/" + icon + "@2x.png";
+document.querySelector(".description").innertext = description; 
+document.querySelector(".temp").innerText = temp + "°C";
+document.querySelector(".humidity").innerText = "Humidity: " + humidity + "%";
+document.querySelector(".wind").innerText = "wind speed: " + speed + "km/hr";
+document.querySelector(".weather").classList.remove("loading");
+},
