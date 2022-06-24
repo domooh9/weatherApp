@@ -45,4 +45,14 @@ body {
         cursor: pointer;
         transition: 0.2s ;
     }
-    
+    input.search-bar {
+        border: none;
+        outline:none;
+        
+        background: #7c7c7c2b;
+        color: white;
+        font-family: inherit;
+        font-size: 130%;
+        width: calc(100% - 80%px);
+           }
+           
