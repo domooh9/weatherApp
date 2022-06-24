@@ -41,6 +41,7 @@
 **_Support and contact details_**
 
 For any further clarrification and support contact:
+
 Email: domooh9@gmail.com
 Telephone: +254710809487
 
@@ -49,6 +50,3 @@ Telephone: +254710809487
  The application is open source, no lincense required. 
 
  API data fetched from _openweather.org_
-
-
-
