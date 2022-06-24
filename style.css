@@ -24,3 +24,10 @@ body {
     max-width: 300px;
     margin: 2em;
 }
+.search {
+   
+    align-items: center;
+    justify-content: centre;
+    margin: 0.5em;
+    color: thistle;
+    }
