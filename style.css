@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh ;
+    margin: 0;
+    background: #222;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Caveat', cursive;
+    font-family: 'Nanum Myeongjo', serif;
+    background-image: URL('https://media.istockphoto.com/photos/barton-springs-flowing-into-town-lake-above-green-cityscape-over-picture-id1322892484?b=1&k=20&m=1322892484&s=170667a&w=0&h=8_qogA3E-awzSAUiINyU9ibt3bZ0ddMQMKqXkWEpS4I=');
+    background-repeat: no-repeat;
+    background-size:100% 100vh;
+    position: relative;
+
+}
