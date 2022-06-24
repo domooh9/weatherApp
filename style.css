@@ -55,4 +55,8 @@ body {
         font-size: 130%;
         width: calc(100% - 80%px);
            }
-           
+           button:hover{
+            background: #7c7c7c6b;
+        }
+            
+
