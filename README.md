@@ -26,11 +26,12 @@
   4. Internet connection is needed to run index.html succesfully
 
  _how to run the application web link_
-  1. The application is a web based application.
-  2. It requires the user to have an internet connection 
-  3. Any internet browser to run the web link
-  4. The link to the web Application server
-  5. Use the link in your browser to access the application.
+
+  1. open the link {**https://domooh9.github.io/weatherApp/**} in your browser
+  2. The application is a web based application.
+  3. It requires user to have an internet connection 
+  4. Any internet browsercan run the application
+  6. Use the above link in your browser to access the application.
 
 **_Technologies Used**_
 
