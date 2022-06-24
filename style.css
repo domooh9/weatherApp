@@ -6,10 +6,10 @@ body {
     margin: 0;
     background: #222;
     font-family: 'Abel', sans-serif;
-    font-family: 'Alfa Slab One', cursive;
-    font-family: 'Caveat', cursive;
-    font-family: 'Nanum Myeongjo', serif;
-    background-image: URL('https://media.istockphoto.com/photos/barton-springs-flowing-into-town-lake-above-green-cityscape-over-picture-id1322892484?b=1&k=20&m=1322892484&s=170667a&w=0&h=8_qogA3E-awzSAUiINyU9ibt3bZ0ddMQMKqXkWEpS4I=');
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Nanum Myeongjo', serif;
+   background-image: URL('https://media.istockphoto.com/photos/barton-springs-flowing-into-town-lake-above-green-cityscape-over-picture-id1322892484?b=1&k=20&m=1322892484&s=170667a&w=0&h=8_qogA3E-awzSAUiINyU9ibt3bZ0ddMQMKqXkWEpS4I=');
     background-repeat: no-repeat;
     background-size:100% 100vh;
     position: relative;
@@ -31,6 +31,7 @@ body {
     margin: 0.5em;
     color: thistle;
     }
+    
     button{
         margin: 1em;
         border-radius: 30%;
@@ -46,25 +47,26 @@ body {
         transition: 0.2s ;
     }
     input.search-bar {
-        border: none;
-        outline:none;
-        
-        background: #7c7c7c2b;
-        color: white;
-        font-family: inherit;
-        font-size: 130%;
-        width: calc(100% - 80%px);
-           }
-           button:hover{
-            background: #7c7c7c6b;
-        }
-        h1.temp{
-            margin: 0%;
-            color: royalblue;
-        }
-        h2{
-            color: plum;
-        }
-
-
-
+ border: none;
+ outline:none;
+ 
+ background: #7c7c7c2b;
+ color: white;
+ font-family: inherit;
+ font-size: 130%;
+ width: calc(100% - 80%px);
+    }
+    button:hover{
+        background: #7c7c7c6b;
+    }
+    h1.temp{
+        margin: 0%;
+        color: royalblue;
+    }
+    h2{
+        color: plum;
+    }
+    .weather.loading{
+        visibility:hidden;
+        max-height: 20px;
+    }
