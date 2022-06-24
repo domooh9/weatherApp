@@ -25,3 +25,19 @@ document.querySelector(".humidity").innerText = "Humidity: " + humidity + "%";
 document.querySelector(".wind").innerText = "wind speed: " + speed + "km/hr";
 document.querySelector(".weather").classList.remove("loading");
 },
+//activating the search button to get data response from the server
+search: function (){
+    this.fetchWeather(document.querySelector(".search-bar").value);
+}
+};
+//adding event Listener to the search button
+document.querySelector(".search button")
+.addEventListener("click", function(){
+ weather.search();
+});
+//using ENTER button to search data from the API
+document.querySelector(".search-bar").addEventListener
+("keyup", function(event){
+    if(EventTarget.key == "Enter"){
+        weather.search();
+    }
