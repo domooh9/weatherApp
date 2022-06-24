@@ -20,8 +20,8 @@
 
  _how to run the application locally in your computer_
     
-  1. Go to GitHub repository (**link: **)
-  2. Clone the repo {git clone https://github.com/jonnygovish/cookie-recipe.git}
+  1. Go to GitHub repository (**link: https://github.com/domooh9/weatherApp**)
+  2. Clone the repo {**git clone git@github.com:domooh9/weatherApp.git**}
   3. Navigate to index.html and open it in your browser
   4. Internet connection is needed to run index.html succesfully
 
@@ -52,3 +52,5 @@ Telephone: +254710809487
  The application is open source, no lincense required. 
 
  API data fetched from _openweather.org_
+
+ 
